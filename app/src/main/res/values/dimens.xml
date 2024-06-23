@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="action_bar_height">48.0dip</dimen>
+    <dimen name="action_button_margin">16.0dip</dimen>
+    <dimen name="card_view_margin">4.0dip</dimen>
+    <dimen name="project_button_height">72.0dip</dimen>
+    <dimen name="text_size_body_small">12.0sp</dimen>
+    <dimen name="text_size_button_material">14.0sp</dimen>
+</resources>
